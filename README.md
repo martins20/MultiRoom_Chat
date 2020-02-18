@@ -3,7 +3,7 @@ Sala de chat baseado em um projeto do Curso de NodeJs do Curso de NodeJS e Mongo
 
 
 ### Ideia 
-A ideia é basicamente construir uma sala de chat Virtual cujo o objetivo é trabalhar com o Socket.Io na udeia de resposta em todo Usuários.
+A ideia é basicamente construir uma sala de chat Virtual cujo o objetivo é trabalhar com o Socket.Io na ideia de resposta em tempo real com todos os Usuários.
 
 ### Instalação 
 * Certifique-se de que sua maquina tenha o NodeJs instalado || Caso não [Clique aqui](https://nodejs.org/en/download/) para instalar
